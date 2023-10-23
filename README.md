@@ -17,13 +17,13 @@ Welcome to the IoT Vision Project, a comprehensive system that integrates IoT, c
 
 The project is structured as follows:
 
-- **`/esp32-cam`**: This directory contains the code and configuration for the ESP32-CAM device. It handles image capture, processing, and communication with the API.
+- **`/esp32-cam`**: This directory contains the code and configuration for the ESP32-CAM device. It handles image capture, processing, and communication with the API. 
 
-- **`/django-api`**: This directory houses the Django project, which serves as the REST API. It manages the data, user authentication, and communication between clients.
+- **`/django-api`**: This directory houses the Django project, which serves as the REST API. It manages the data, user authentication, and communication between clients. [parqueaya-api](https://github.com/branyerbjr/parqueaya-a).
 
-- **`/react-frontend`**: This directory contains the React.js web frontend, which users can access through their web browsers to view and interact with the visual data.
+- **`/react-frontend`**: This directory contains the React.js web frontend, which users can access through their web browsers to view and interact with the visual data. [parqueaya-web](https://github.com/branyerbjr/parqueaya-web).
 
-- **`/android-app`**: Here, you'll find the Kotlin mobile app built with Android Studio. It allows users to access the system from their Android devices.
+- **`/android-app`**: Here, you'll find the Kotlin mobile app built with Android Studio. It allows users to access the system from their Android devices. [parqueaya-android]().
 
 ## Getting Started
 
@@ -37,9 +37,25 @@ If you have any questions, encounter issues, or want to contribute to the projec
 
 ## License
 
-This project is open-source and licensed under [LICENSE](LICENSE). You are encouraged to use, modify, and distribute it as per the terms of the license.
+This project is licensed under the [Apache License, Version 2.0](LICENSE).
 
-We hope you find this IoT Vision Project exciting and useful for your own applications. Enjoy exploring the world of IoT, computer vision, and mobile development!
+You can find the full text of the license [here](https://www.apache.org/licenses/LICENSE-2.0).
+
+### Copyright and Permissions Notice
+
+Copyright [2023] [parqueaYA]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 ## Contributors
 
@@ -70,5 +86,3 @@ We appreciate the valuable contributions of developers and team members in vario
 ...
 
 We want to express our gratitude to all the contributors who have dedicated their time and expertise to make this project a reality. If you are interested in joining the team or have ideas for improvements, please don't hesitate to reach out. We value your input and collaboration.
-
-## License
