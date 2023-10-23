@@ -63,17 +63,17 @@ We appreciate the valuable contributions of developers and team members in vario
 
 ### Backend Developers
 
-- **Name 1**: Role - Backend Developer, Contribution - Django API development.
-- **Name 2**: Role - Backend Developer, Contribution - API data processing and management.
+- **[carlosDaniel0293](https://github.com/CarlosDaniel0293)**: Role - Backend Developer, Contribution - Django API development.
+- API data processing and management.
 
 ### Frontend Developers
 
-- **Name 3**: Role - Frontend Developer, Contribution - React.js web interface development.
-- **Name 4**: Role - Frontend Developer, Contribution - User interface design and optimization.
+- **[Bel1en](https://github.com/Be1en)**: Role - Frontend Developer, Contribution - React.js web interface development.
+- User interface design and optimization.
 
 ### Mobile App Developer
 
-- **Name 5**: Role - Mobile App Developer, Contribution - Android mobile app development with Kotlin.
+- **[MICHELLCGs](https://github.com/MICHELLCGs)**: Role - Mobile App Developer, Contribution - Android mobile app development with Kotlin.
 
 ### IoT Architect
 
