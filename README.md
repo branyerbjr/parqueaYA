@@ -63,13 +63,11 @@ We appreciate the valuable contributions of developers and team members in vario
 
 ### Backend Developers
 
-- **[carlosDaniel0293](https://github.com/CarlosDaniel0293)**: Role - Backend Developer, Contribution - Django API development.
-- API data processing and management.
+- **[carlosDaniel0293](https://github.com/CarlosDaniel0293)**: Role - Backend Developer, Contribution - Django API development, API data processing and management.
 
 ### Frontend Developers
 
-- **[Bel1en](https://github.com/Be1en)**: Role - Frontend Developer, Contribution - React.js web interface development.
-- User interface design and optimization.
+- **[Bel1en](https://github.com/Be1en)**: Role - Frontend Developer, Contribution - React.js web interface development, User interface design and optimization.
 
 ### Mobile App Developer
 
